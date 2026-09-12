@@ -60,13 +60,13 @@ This repository provides step-by-step guides covering every aspect of the infras
 
 | Guide Document | Description & Key Contents |
 | :--- | :--- |
-| 📄 [SAAS_PLATFORM_ARCHITECTURE.md](SAAS_PLATFORM_ARCHITECTURE.md) | High-level multi-tenant platform design, Google Cloud infrastructure tier, and backend toggle logic. |
-| 📄 [SERVER_HARDWARE_INFRASTRUCTURE.md](SERVER_HARDWARE_INFRASTRUCTURE.md) | Physical server specs, Ubuntu 22.04 LTS installation, swap memory tuning, and Docker CE installation. |
-| 📄 [SERVER_INFRASTRUCTURE.md](SERVER_INFRASTRUCTURE.md) | Core server pillars, per-user variables breakdown, and zero-downtime software update procedures. |
-| 📄 [GOOGLE_SHEET_DOCKER_DEPLOYMENT_PLAN.md](GOOGLE_SHEET_DOCKER_DEPLOYMENT_PLAN.md) | Google Sheets CRM integration setup, Dockerfile, and `docker-compose.yml` configuration. |
-| 📄 [DOCKER_USER_MANAGEMENT_AND_SHARED_DEPENDENCIES.md](DOCKER_USER_MANAGEMENT_AND_SHARED_DEPENDENCIES.md) | Docker image layer sharing (Copy-on-Write) and dynamic on-demand container spawning. |
-| 📄 [MEMORY_OPTIMIZATION_AND_MASS_SCALING.md](MEMORY_OPTIMIZATION_AND_MASS_SCALING.md) | Stripped Chromium flags, network asset interception code, and task concurrency capacity math. |
-| 📄 [AUTOMATED_ONBOARDING_AND_ORCHESTRATION.md](AUTOMATED_ONBOARDING_AND_ORCHESTRATION.md) | Hands-free client onboarding, Webhook API, Chrome extension cookie capture, and orchestrator placement. |
+| 📄 [SAAS_PLATFORM_ARCHITECTURE.md](Instructions/SAAS_PLATFORM_ARCHITECTURE.md) | High-level multi-tenant platform design, Google Cloud infrastructure tier, and backend toggle logic. |
+| 📄 [SERVER_HARDWARE_INFRASTRUCTURE.md](Instructions/SERVER_HARDWARE_INFRASTRUCTURE.md) | Physical server specs, Ubuntu 22.04 LTS installation, swap memory tuning, and Docker CE installation. |
+| 📄 [SERVER_INFRASTRUCTURE.md](Instructions/SERVER_INFRASTRUCTURE.md) | Core server pillars, per-user variables breakdown, and zero-downtime software update procedures. |
+| 📄 [GOOGLE_SHEET_DOCKER_DEPLOYMENT_PLAN.md](Instructions/GOOGLE_SHEET_DOCKER_DEPLOYMENT_PLAN.md) | Google Sheets CRM integration setup, Dockerfile, and `docker-compose.yml` configuration. |
+| 📄 [DOCKER_USER_MANAGEMENT_AND_SHARED_DEPENDENCIES.md](Instructions/DOCKER_USER_MANAGEMENT_AND_SHARED_DEPENDENCIES.md) | Docker image layer sharing (Copy-on-Write) and dynamic on-demand container spawning. |
+| 📄 [MEMORY_OPTIMIZATION_AND_MASS_SCALING.md](Instructions/MEMORY_OPTIMIZATION_AND_MASS_SCALING.md) | Stripped Chromium flags, network asset interception code, and task concurrency capacity math. |
+| 📄 [AUTOMATED_ONBOARDING_AND_ORCHESTRATION.md](Instructions/AUTOMATED_ONBOARDING_AND_ORCHESTRATION.md) | Hands-free client onboarding, Webhook API, Chrome extension cookie capture, and orchestrator placement. |
 
 ---
 
